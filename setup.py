@@ -4,7 +4,7 @@ Created on Thu Oct  8 17:22:25 2020
 
 @author: HEMA
 """
-from flask import Flask,render_template,request
+from Flask import Flask,render_template,request
 import json
 import pandas as pd
 
